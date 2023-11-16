@@ -1,2 +1,2 @@
 # okotccoli
-XXX./vlink/index.html
+XXX./2vlink/index.html
